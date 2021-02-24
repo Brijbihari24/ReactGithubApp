@@ -24,6 +24,7 @@ const Header = () => {
   return (
     <Navbar color="info" light expand="md">
       <NavbarBrand>
+      <img src="/femalecodertocat.png" width="50px"/>
         <Link to="/" className="text-white">
           Sujit gitfire App
         </Link>

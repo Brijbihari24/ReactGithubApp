@@ -48,7 +48,7 @@ const SignIn = () => {
     return <Redirect to="/" />;
   }
   return (
-    <Container className="text-center">
+    <Container className="text-center App">
       <Row>
         <Col lg={6} className="offset-lg-3 mt-5">
           <Card>

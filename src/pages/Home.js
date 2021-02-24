@@ -40,6 +40,7 @@ const Home = () => {
   }
 
   return (
+    <div className="app-bg-img">
     <Container>
       <Row className=" mt-3">
         <Col md="5">
@@ -61,6 +62,7 @@ const Home = () => {
         <Col md="7">{user ? <Repos repos_url={user.repos_url} /> : null}</Col>
       </Row>
     </Container>
+    </div>
   );
 };
 
