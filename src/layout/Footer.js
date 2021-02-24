@@ -8,7 +8,7 @@ const Footer = () => {
       tag="footer"
       className="text-center bg-info text-white text-uppercase fixed-bottom p-3"
     >
-      Github search app with firebase <h6>Happy Birthday Sujit, Made with love by Dev Brij</h6>
+      Github search app with firebase <h6>Happy Birthday Sujit🌹🎉🎂🎉🌹✨🎁, Made with ❤ by Dev Brij</h6>
     </Container>
   );
 };
