@@ -25,7 +25,7 @@ const Header = () => {
     <Navbar color="info" light expand="md">
       <NavbarBrand>
         <Link to="/" className="text-white">
-          LCO gitfire App
+          Sujit gitfire App
         </Link>
       </NavbarBrand>
       <NavbarText className="text-white">
